@@ -1,0 +1,8 @@
+.strike {
+    text-decoration: line-through;
+}
+
+.disappear {
+    display: none;
+}
+
