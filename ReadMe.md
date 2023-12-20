@@ -1,4 +1,4 @@
-# Todo App
+# Todo Application
 
 ### Description
 >A todo app to track your todos. You'll be able to add new todos, store there status i.e. completed or not, delete a todo, see all todos together.
